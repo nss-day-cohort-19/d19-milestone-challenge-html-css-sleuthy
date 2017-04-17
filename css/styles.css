@@ -1,0 +1,115 @@
+body {
+	background: white;
+	font-family: 'Dosis', sans-serif;
+	font-size: large;
+}
+
+footer li {
+	display: inline-block;
+	list-style: none;
+	margin: 0 2%;
+}
+
+a {
+	text-decoration: none;
+	color: #F0F1F3;
+}
+
+a:hover {
+color: #D5D5D5;
+}
+
+#header {
+	width: 100%;
+	text-align: center;
+}
+
+#bio,
+#resources {
+	float: left;
+	background: #96858F;
+	color: white;
+	width: 72%;
+	border-radius: 5px;
+	padding-left: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#pinkpicture {
+	float: right;
+	border-radius: 5px;
+	width: 25%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar {
+	background: #9099A2;
+	margin-bottom: 5px;
+	padding: 10px 2% 10px 75%;
+	border-radius: 5px;
+}
+
+.navbar li {
+	display: inline-block;
+	text-decoration: none;
+	padding: 0 2%;
+}
+
+.navbar li a {
+	display: block;
+}
+
+.nonnavlist li {
+	list-style: none;
+}
+
+#portfolio {
+	clear: both;
+	background: #96858F;
+	color: white;
+	width: 98%;
+	border-radius: 5px;
+	padding-left: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#firstproject,
+#secondproject {
+	width: 45%;
+	display: inline-block;
+}
+
+.thoughts {
+	background: #96858F;
+	color: white;
+	width: 98%;
+	border-radius: 5px;
+	padding-left: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#copy {
+	float: left;
+	width: 72%;
+}
+
+#social {
+	float: right;
+	width: 25%;
+}
+
+#social li {
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+
+/*colors to use: #96858F (dusty), #6D7993 (Lavender), #9099A2 (Overcast), #D5D5D5 (Paper) #F0F1F3 (text on colored background)*/
+
+
+
+
